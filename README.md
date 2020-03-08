@@ -6,8 +6,8 @@ After a sign up screen, user gets navigated to the home screen which consists of
 
 A few screenshots for reference:
 
-<img src="/src/images/Orders.PNG" alt="firstScreen"
+<img src="/src/images/Orders.png" alt="firstScreen"
 	title="Image of 1st Screen" width="30%" height="30%" />
 
-<img src="/src/images/Orders-stage2.PNG" alt="secondScreen"
+<img src="/src/images/Orders-stage2.png" alt="secondScreen"
 	title="Image of 2nd Screen" width="30%" height="30%" />
